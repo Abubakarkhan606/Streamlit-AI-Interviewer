@@ -1,0 +1,7 @@
+pyttsx3
+openai
+PyMuPDF
+PyPDF2
+python-dotenv
+streamlit
+speechrecognition
